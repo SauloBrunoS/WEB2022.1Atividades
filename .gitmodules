@@ -1,0 +1,3 @@
+[submodule "crud-express-mongoose"]
+	path = crud-express-mongoose
+	url = https://github.com/SauloBrunoS/crud-express-mongoose.git
