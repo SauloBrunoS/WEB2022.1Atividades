@@ -4,3 +4,6 @@
 [submodule "atividade5/crud-express-mongoose"]
 	path = atividade5/crud-express-mongoose
 	url = https://github.com/SauloBrunoS/crud-express-mongoose.git
+[submodule "atividade5/WEB20221"]
+	path = atividade5/WEB20221
+	url = https://github.com/SauloBrunoS/WEB20221.git
